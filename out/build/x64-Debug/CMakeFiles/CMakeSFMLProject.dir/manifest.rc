@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Davin/source/repos/physics-2025-davinbarron/out/build/x64-Debug/CMakeFiles/CMakeSFMLProject.dir/embed.manifest"
